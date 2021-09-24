@@ -34,9 +34,12 @@ Para escrever um parágrafo com destaque, utilizamos o símbolo >.
 >Esse é um parágrafo destacado do resto do texto. Esse aqui também. e assim por diante.
 
 
+=======
+
 
 Os paragráfos acima estão destacados do restante do texto escrito.
 =======
+
 Os paragráfos acima estão destacados do restante do texto escrito.
 
 [7:34 AM] Claudio Boldorini Júnior
@@ -58,6 +61,8 @@ document.getElementById("teste");
 "age": 25
 }
 ```
+
+=======
 ## Listas não-ordenadas
 Para criar listas não-ordenadas, utiliza-se o símbolo - no começo da linha.
 - linha 1
@@ -83,4 +88,5 @@ Os paragráfos acima estão destacados do restante do texto escrito.
 
 A criação de hyperlinks é feita através dos símbolos [](). Onde o conteúdo dos colchetes é o texto que será exibido e o conteúdo do parênteses é o link a ser redirecionado.
 Ex: [Google](www.google.com)
+
 
